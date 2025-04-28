@@ -1,5 +1,4 @@
-Olá, meu nome é Gabriel Fonseca e sou estudante de Analise e Desenvolvimento de Sistemas na FATEC Americana.
-Atualmente estou focado na base da programação e fazendo Formação de Lógica de Programação, comecei também um curso de Desenvolvedor WEB Front-End: HTML e CSS na instuição Senac.
+Olá, meu nome é Gabriel Fonseca. Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC Americana, com foco no desenvolvimento de habilidades em programação e tecnologia web. Atualmente, estou aprofundando meus conhecimentos em lógica de programação e cursando a formação de Desenvolvedor Web Front-End (HTML e CSS) pelo Senac. Busco constantemente aprimorar minhas competências técnicas e estou comprometido em construir uma carreira sólida na área de desenvolvimento de software.
 
 
 <!---
